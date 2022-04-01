@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @average-joe25
 - 👀 I’m interested in Machine Learning and Web Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abhishekkrsingh369@gmail.com
 
