@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Abhishek Kumar Singh
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+-👋 Hi, I’m Abhishek Kumar Singh
 - 👀 I’m interested in Machine Learning and Web Development
 - 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on impactful projects
