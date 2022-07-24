@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhishek Kumar Singh
 - 👀 I’m interested in Machine Learning and Web Development
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Docker
+- 💞️ I’m looking to collaborate on impactful projects
 - 📫 How to reach me abhishekkrsingh369@gmail.com
 
 <!---
