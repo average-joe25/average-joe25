@@ -8,7 +8,6 @@
 </h1>
 <div align="center">-I’m Abhishek Kumar Singh</div>
 <div  align="center">- 👀 I’m interested in Machine Learning and Web Development</div>
-<div align="center">- 🌱 I’m currently learning Docker</div>
 <div align="center">- 💞️ I’m looking to collaborate on impactful projects</div>
 <div align="center">- 📫 How to reach me abhishekkrsingh369@gmail.com</div>
 <br><br><hr><br>
